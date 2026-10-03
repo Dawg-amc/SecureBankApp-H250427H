@@ -70,7 +70,6 @@ Run it from a real terminal so password input is hidden (IDE consoles show it as
 | `demo` | `Demo@1234` |
 | `bob` | `Bobby@1234` |
 
-(Delete the contents of `data/` for a fresh start.)
 
 ## Data File Formats
 - `users.txt`: `username|salt(Base64)|hash(Base64)|failedAttempts|lockedUntilEpochMs`
